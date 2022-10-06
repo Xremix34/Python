@@ -1,23 +1,5 @@
-# Gestor de Stock Informático
-
-  <p align="center">
-    <a href="https://github.com/Xremix34/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/Xremix34/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/Xremix34/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Xremix34/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/Xremix34/github-readme-stats">
-      <img src="https://codecov.io/gh/Xremix34/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/Xremix34/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Xremix34/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/Xremix34/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Xremix34/github-readme-stats?color=0088ff" />
-    </a>
-  </p>
-  
+# <p align="center>Gestor de Stock Informático</p>
+ 
 ![menu_login](https://user-images.githubusercontent.com/92939227/194332244-434c99dc-8dd0-4737-ba8b-94767aa9534c.png)
 ![menuprincipal](https://user-images.githubusercontent.com/92939227/194332276-d6d9c74b-bec6-4024-ab76-ab22de2f48d6.png)
 
