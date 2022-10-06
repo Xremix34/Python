@@ -9,7 +9,6 @@
 
 - [Descrição](#descrição)
 - [Como utilizar](#Como-utilizar)
-- [Referências](#referências)
 - [Licença](#licença)
 - [Autor Info](#autor-info)
 
@@ -23,17 +22,25 @@
 #### Tecnologias e Ferramentas
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 [Voltar ao Início](#Gestor-de-Stock-Informático)
 
 ---
 
+## Requisitos
+- ![PyCharm](https://www.jetbrains.com/pycharm/)
+- ![MySQL Workbench](https://www.mysql.com/products/workbench/)
+---
+
 ## Como utilizar
 
 #### Instalação
 Copiar a pasta para o diretório desejado no computador.
-Abrir com com uma IDE compatível com a linguagem python.
+Instalar o python 3 e o MySql Workbench
+Abrir o MySql Workbench para importar o modelo 'stockFinal.mwb' ir em 'Database' e depois 'Connect Data Base' para estabelecer a conecção com a base de dados
+Depois abrir os ficheiros com IDE compatível com a linguagem python para executar o programa ou utilizar o terminal utilizando o comando python.
 
 ---
 
