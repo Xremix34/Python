@@ -56,7 +56,7 @@
 
 ## Autor
 
-[<img src="https://avatars.githubusercontent.com/u/92939227?s=96&v=4" width=115> <br> <sub> Elio Borges </sub>](https://github.com/Xremix34)|
+[<img src="https://avatars.githubusercontent.com/u/92939227?s=96&v=4" width=115 style=border-radius:50%> <br> <sub> Elio Borges </sub>](https://github.com/Xremix34)|
 | :---: |
 
 [Voltar ao Início](#Gestor-de-Stock-Informático)
