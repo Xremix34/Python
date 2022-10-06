@@ -55,6 +55,6 @@ Para iniciar o programa deve abrir o ficheiro menu.py num IDE compatível com a 
 
 ## Autor Info
 
-- [Elio Borges](https://github.com/Xremix34)
+- ![Elio Borges](https://github.com/Xremix34)
 
 [Voltar ao Início](#Gestor-de-Stock-Informático)
