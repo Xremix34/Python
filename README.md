@@ -30,8 +30,8 @@
 ---
 
 ## Requisitos
-- ![PyCharm](https://www.jetbrains.com/pycharm/)
-- ![MySQL Workbench](https://www.mysql.com/products/workbench/)
+- PyCharm(https://www.jetbrains.com/pycharm/)
+- MySQL Workbench(https://www.mysql.com/products/workbench/)
 ---
 
 ## Como utilizar
