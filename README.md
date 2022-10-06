@@ -1,7 +1,3 @@
-# Python--Projeto-Gestor-de-Stock-Informático
-Projeto de Gestão de Stock Informático desenvolvido em Python através do curso Jovem + Digital Python
-
-
 # Gestor de Stock Informático
 
 ![Project Image](project-image-url)
@@ -28,7 +24,7 @@ Projeto de Gestão de Stock Informático desenvolvido em Python através do curs
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Gestor-de-Stock-Informático)
 
 ---
 
@@ -44,12 +40,12 @@ Abrir com com uma IDE compatível com a linguagem python.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Gestor-de-Stock-Informático)
 
 ---
 
 ## Autor Info
 
-- [Elio Borges]()
+- [Elio Borges](https://github.com/Xremix34)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Gestor-de-Stock-Informático)
