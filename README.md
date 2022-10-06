@@ -1,4 +1,4 @@
-# Gestor de Stock Informático
+# <center>Gestor de Stock Informático</center>
 
 ![menu_login](https://user-images.githubusercontent.com/92939227/194332244-434c99dc-8dd0-4737-ba8b-94767aa9534c.png)
 ![menuprincipal](https://user-images.githubusercontent.com/92939227/194332276-d6d9c74b-bec6-4024-ab76-ab22de2f48d6.png)
