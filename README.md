@@ -11,7 +11,7 @@
 - [Requisitos](#requisitos)
 - [Como utilizar](#Como-utilizar)
 - [Licença](#licença)
-- [Autor Info](#autor-info)
+- [Autor](#autor)
 
 ---
 
@@ -53,8 +53,8 @@ Para iniciar o programa deve abrir o ficheiro menu.py num IDE compatível com a 
 
 ---
 
-## Autor Info
+## Autor
 
-- ![Elio Borges](https://github.com/Xremix34)
+- [Elio Borges](https://github.com/Xremix34)
 
 [Voltar ao Início](#Gestor-de-Stock-Informático)
