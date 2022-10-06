@@ -64,7 +64,7 @@ Viewed 6k times
 
 I am using github pages to create a portfolio blog with Jekyll theme and i want to set image border-radius to circle and i can't figure out to do that.This is what i have tried and nothing is happening to image. here is my code
 
-  <a href="url"><img src="https://avatars.githubusercontent.com/u/92939227?s=96&v=4" height="auto" width="115" style="border-radius:50%"> <br> <sub> Elio Borges </sub>](https://github.com/Xremix34)</a> |
+[<img src="https://avatars.githubusercontent.com/u/92939227?s=96&v=4" height="auto" width="115" style="border-radius:50%"> <br> <sub> Elio Borges </sub>](https://github.com/Xremix34)|
 | :---: |
 
 [Voltar ao Início](#Gestor-de-Stock-Informático)
