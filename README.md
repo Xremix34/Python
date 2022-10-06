@@ -38,8 +38,10 @@
 
 #### Instalação
 Copiar a pasta para o diretório desejado no computador.
-Instalar o python 3 e o MySql Workbench
-Abrir o MySql Workbench para importar o modelo 'stockFinal.mwb' ir em 'Database' e depois 'Connect Data Base' para estabelecer a conecção com a base de dados
+
+Instalar o python 3 e o MySql Workbench.
+
+Abrir o MySql Workbench para importar o modelo 'stockFinal.mwb' ir em 'Database' e depois 'Connect Data Base' para estabelecer a conecção com a base de dados.
 Depois abrir os ficheiros com IDE compatível com a linguagem python para executar o programa ou utilizar o terminal utilizando o comando python.
 
 ---
