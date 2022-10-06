@@ -1,4 +1,4 @@
-# <center>Gestor de Stock Informático</center>
+# Gestor de Stock Informático
 
 ![menu_login](https://user-images.githubusercontent.com/92939227/194332244-434c99dc-8dd0-4737-ba8b-94767aa9534c.png)
 ![menuprincipal](https://user-images.githubusercontent.com/92939227/194332276-d6d9c74b-bec6-4024-ab76-ab22de2f48d6.png)
@@ -55,8 +55,7 @@
 ---
 
 ## Autor
-![Elio Borges](https://avatars.githubusercontent.com/u/92939227?s=96&v=4)
-
-[Elio Borges](https://github.com/Xremix34)
+[<img src="https://avatars.githubusercontent.com/u/92939227?s=96&v=4" width=115 > <br> <sub> Elio Borges </sub>](https://github.com/Xremix34) |
+| :---: |
 
 [Voltar ao Início](#Gestor-de-Stock-Informático)
