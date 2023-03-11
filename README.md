@@ -10,7 +10,6 @@
 - [Descrição](#descrição)
 - [Requisitos](#requisitos)
 - [Como utilizar](#Como-utilizar)
-- [Licença](#licença)
 - [Autor](#autor)
 
 ---
@@ -23,7 +22,7 @@
 #### Tecnologias e Ferramentas
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![workbench](https://user-images.githubusercontent.com/92939227/224503140-d34b9946-02a0-40c2-b003-c1f6e706e8e8.jpg)
 - ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 [Voltar ao Início](#Gestor-de-Stock-Informático)
@@ -46,13 +45,6 @@
 
 ---
 
-## Licença
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[Voltar ao Início](#Gestor-de-Stock-Informático)
-
----
 
 ## Autor
 
