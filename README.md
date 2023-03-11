@@ -17,7 +17,7 @@
 ## Descrição
 
 > Este projeto foi desenvolvido para testar os conhecimentos adquiridos do curso Jovem + Digital Python.
-> O projeto consiste em um sistema de Gestão de stock desenvolvido em python, que permite Adicionar, Listar, Atualizar, Remover produtos assim como efetuar vendas a clientes e encomendas a fornecedores de periféricos relacionados com informática.
+> O projeto consiste em um sistema de Gestão de stock desenvolvido em python com integração à base de dados do MySql WorkBench, que permite Adicionar, Listar, Atualizar, Remover produtos assim como efetuar vendas a clientes e encomendas a fornecedores de periféricos relacionados com informática.
 
 #### Tecnologias e Ferramentas
 
@@ -41,7 +41,8 @@
 - <p>Instalar o python 3 e o MySql Workbench.</p>
 - <p>Abrir o MySql Workbench para importar o modelo 'stockFinal.mwb' que se encontra na pasta modelos. </p>
 - <p>Ir em 'Database', depois 'Connect Data Base' para estabelecer a conecção com a base de dados.</p>
-- <p>Iniciar o programa deve abrir o ficheiro menu.py num IDE compatível com a linguagem python para executar o programa ou utilizar o terminal utilizando o comando python.</p>
+- <p>Iniciar o programa deve abrir o ficheiro menu.py num IDE compatível com a linguagem python para executar o programa ou utilizar o terminal utilizando o comando</p>
+`python menu.py`
 
 ---
 
